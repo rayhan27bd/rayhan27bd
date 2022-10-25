@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rayhan Raahat
 - 👀 I’m interested in.. Programing
 - 🌱 I’m currently learning.. Professonal C#
-- 💞️ I’m looking to collaborate on.. Coming!!
+- 💞️ I’m looking to collaborate on.. Coming!
 - 📫 How to reach me.. @rayhan27bd
 
 <!---
