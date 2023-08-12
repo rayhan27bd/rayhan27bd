@@ -2,8 +2,8 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFq8Y4l_1-vCg/profile-displaybackgroundimage-shrink_200_800/0/1655266010298?e=2147483647&v=beta&t=Kp_ocXbheRPAusizF8zTEsNC5DLnJ7A3hoknHNFrtV4" alt="Me">
 -->
 - 👋 Hi, I’m Rayhan Raahat
-- 👀 I’m interested in.. Programing
-- 🌱 I’m currently learning.. Professonal C#
+- 👀 I’m interested in.. coding 
+- 🌱 I’m currently learning.. Asp.Net
 - 💞️ I’m looking to collaborate on.. Coming!
 - 📫 How to reach me.. @rayhan27bd
 
