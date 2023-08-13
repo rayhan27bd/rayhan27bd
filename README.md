@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Rayhan Raahat
 - 👀 I’m focused in .Net coding..
 - 🌱 I’m currently learning Asp.Net
-- 📫 How to reach me.. rayhan27bd
+- 📫 How to reach me.. @rayhan27bd.
 <!---
 
 rayhan27bd/rayhan27bd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
